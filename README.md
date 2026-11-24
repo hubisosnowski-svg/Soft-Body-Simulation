@@ -1,6 +1,6 @@
 # Tetrahedral Soft-Body Physics Simulation
 
-An interactive 3D soft-body physics simulation written in C++ using OpenGL, FreeGLUT, GLM, and Dear ImGui. The application loads closed Wavefront `.obj` meshes, tetrahedralizes them in a background thread, and simulates deformable soft-body dynamics using Extended Position-Based Dynamics (XPBD) constraints alongside real-time collision detection and mouse-ray grabbing. This project was inspired on https://github.com/blackedout01 soft-rigid body simulation.
+An interactive 3D soft-body physics simulation written in C++ using OpenGL, FreeGLUT, GLM, and Dear ImGui. The application loads closed Wavefront `.obj` meshes, tetrahedralizes them in a background thread, and simulates deformable soft-body dynamics using Extended Position-Based Dynamics (XPBD) constraints alongside real-time collision detection and mouse-ray grabbing. This project was inspired on https://github.com/blackedout01 soft-rigid body simulation. Feel free to pull requests for me to add new thinks and i will try to correct errors, as soon as you inform me about them.
 
 ## Core Features
 
