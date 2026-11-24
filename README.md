@@ -84,8 +84,6 @@ Based on the state variables and UI helpers in the source code, the Dear ImGui p
 
 * **Settings (`settings`):** Toggles visibility/expansion of the advanced settings panel.
 
-> **Note:** If you have additional ImGui sliders or buttons defined inside your `Display()` / rendering function (which was cut off at the end of your pasted code), share that section and I will document their exact labels and ranges as well.
-
 ## Dependencies & Libraries
 
 * **OpenGL / GLEW / WGLEW:** Core graphics rendering, VBOs, framebuffers, and shadow/depth mapping.
